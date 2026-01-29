@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head><h1> MY TIMETABLE</h1>   
-        
-    
+<title></title>
     </head>
     <body>
         <tr>
